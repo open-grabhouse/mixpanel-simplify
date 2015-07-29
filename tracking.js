@@ -40,7 +40,7 @@
     };
 
     // Methods to track action
-    _contructor.prototype.setAction = function(action){
+    _constructor.prototype.setAction = function(action){
         userAction = action;
     };
 
