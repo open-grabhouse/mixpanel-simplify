@@ -1,26 +1,22 @@
 {
-  name: 'mixpanel-simplify',
-  version: '1.0.1',
-  homepage: 'https://github.com/open-grabhouse/mixpanel-simplify',
-  authors: [
-    'Jessel John <jessel@grabhouse.com>'
+  "name": "mixpanel-simplify",
+  "version": "1.0.1",
+  "homepage": "https://github.com/open-grabhouse/mixpanel-simplify",
+  "authors": [
+    "Jessel John <jesseljohn130@gmail.com>"
   ],
-  description: 'Library which simplifies mixpanel tracking.',
-  main: 'tracking.js',
-  moduleType: [
-    'node'
-  ],
-  license: 'MIT',
-  main: 'tracking.js',
-  dependencies: {
-    "angular": ">=1.2.0",
-    "mixpanel":">=1.0.0"
+  "description": "Library which simplifies mixpanel tracking.",
+  "main": "tracking.js",
+  "license": "MIT",
+  "main": "tracking.js",
+  "dependencies": {
+    "angular": ">=1.2.0"
   },
-  ignore: [
-    '**/.*',
-    'node_modules',
-    'bower_components',
-    'test',
-    'tests'
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
