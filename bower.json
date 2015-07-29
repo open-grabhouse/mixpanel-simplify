@@ -1,0 +1,21 @@
+{
+  name: 'mixpanel-simplify',
+  version: '1.0.1',
+  homepage: 'https://github.com/open-grabhouse/mixpanel-simplify',
+  authors: [
+    'Jessel John <jessel@grabhouse.com>'
+  ],
+  description: 'Library which simplifies mixpanel tracking.',
+  main: 'tracking.js',
+  moduleType: [
+    'node'
+  ],
+  license: 'MIT',
+  ignore: [
+    '**/.*',
+    'node_modules',
+    'bower_components',
+    'test',
+    'tests'
+  ]
+}
