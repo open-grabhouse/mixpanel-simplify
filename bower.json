@@ -11,6 +11,7 @@
     'node'
   ],
   license: 'MIT',
+  main: 'tracking.js'
   ignore: [
     '**/.*',
     'node_modules',
