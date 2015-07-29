@@ -45,7 +45,9 @@
     };
 
     _constructor.prototype.getAction = function(){
-        return userAction;
+        var uA = userAction;
+        userAction = "$direct";
+        return uA;
     };
 
 
