@@ -9,9 +9,6 @@
   "main": "tracking.js",
   "license": "MIT",
   "main": "tracking.js",
-  "dependencies": {
-    "angular": ">=1.2.0"
-  },
   "ignore": [
     "**/.*",
     "node_modules",
